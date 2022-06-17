@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5lryIV4XQRZzIGXbfDyTMgUGqMQk4y1keqdsVIhkclRIEydY/O/G/O0g1WRvj+tXv6CAvd5C75C5jPECw8Kvg==",
+  "success": true,
+  "projectFilePath": "E:\\CloudDemo\\CloudDemoAppIn\\CloudDemoAppIn\\CloudDemoAppIn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
